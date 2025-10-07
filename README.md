@@ -1,16 +1,32 @@
-## Hi there 👋
+✨ **Hi, I'm Sohail Hamza**  
 
-<!--
-**Sohailhamza/SohailHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Android & Flutter Developer from Pakistan 🇵🇰  
+💻 BS Software Engineering Student (8th Semester)  
+🏆 Passionate about building modern, scalable mobile apps  
+🌍 Open to global internships, collaborations & open-source contributions  
+⚡ Skilled in Android (Java/Kotlin), Flutter, Firebase, REST APIs, and UI/UX Design  
+💬 Ask me about app architecture, Firebase integration, and Android optimization  
+📫 Reach me at: hafizsohail582gmail.com(mailto:hafizsohail582@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+```yaml
+name: Sohail Hamza
+location: Pakistan 🇵🇰
+education: BS Software Engineering (8th Semester)
+specialization: Android & Flutter App Development
+currently_learning:
+  - Advanced Flutter & Dart
+  - Firebase Cloud Functions
+  - REST API Design
+  - iOS Development
+open_to:
+  - Internships
+  - Freelance Projects
+  - Collaborations
+goal: Full-Stack Mobile Developer
+philosophy: "Code. Learn. Build. Repeat."
+
+
+
