@@ -1,10 +1,10 @@
 ✨ **Hi, I'm Sohail Hamza**  
 
 🎯 Android & Flutter Developer from Pakistan 🇵🇰  
-💻 BS Software Engineering Student (8th Semester)  
+💻 BS Software Engineering Student 
 🏆 Passionate about building modern, scalable mobile apps  
 🌍 Open to global internships, collaborations & open-source contributions  
-⚡ Skilled in Android (Java/Kotlin), Flutter, Firebase, REST APIs, and UI/UX Design  
+⚡ Skilled in Android Java, Flutter, Firebase, REST APIs, and UI/UX Design  
 💬 Ask me about app architecture, Firebase integration, and Android optimization  
 📫 Reach me at: hafizsohail582gmail.com(mailto:hafizsohail582@gmail.com)
 
