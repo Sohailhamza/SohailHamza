@@ -14,10 +14,10 @@
 ```yaml
 name: Sohail Hamza
 location: Pakistan 🇵🇰
-education: BS Software Engineering (8th Semester)
+education: BS Software Engineering
 specialization: Android & Flutter App Development
 currently_learning:
-  - Advanced Flutter & Dart
+  - Advanced Android & Flutter 
   - Firebase Cloud Functions
   - REST API Design
   - iOS Development
